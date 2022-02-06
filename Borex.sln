@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client.Cartman", "ConsoleApp1\Client.Cartman.csproj", "{48944152-91B1-4C6B-AC09-08E4C00890E4}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Borex", "Borex\Borex.csproj", "{B10EDCFD-7E5A-4C73-8B8C-B3A671E8561C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client.Cartman", "Client.Cartman\Client.Cartman.csproj", "{8B38274A-ED0D-4E27-A0E9-CD573A17E1A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{48944152-91B1-4C6B-AC09-08E4C00890E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{48944152-91B1-4C6B-AC09-08E4C00890E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{48944152-91B1-4C6B-AC09-08E4C00890E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{48944152-91B1-4C6B-AC09-08E4C00890E4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B10EDCFD-7E5A-4C73-8B8C-B3A671E8561C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B10EDCFD-7E5A-4C73-8B8C-B3A671E8561C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B10EDCFD-7E5A-4C73-8B8C-B3A671E8561C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B10EDCFD-7E5A-4C73-8B8C-B3A671E8561C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B38274A-ED0D-4E27-A0E9-CD573A17E1A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B38274A-ED0D-4E27-A0E9-CD573A17E1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B38274A-ED0D-4E27-A0E9-CD573A17E1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B38274A-ED0D-4E27-A0E9-CD573A17E1A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
