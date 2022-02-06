@@ -5,4 +5,10 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Borex\Borex.csproj" />
+    <ProjectReference Include="..\Client.Butters\Client.Butters.csproj" />
+    <ProjectReference Include="..\Client.Cartman\Client.Cartman.csproj" />
+  </ItemGroup>
+
 </Project>
